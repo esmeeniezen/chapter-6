@@ -1,0 +1,22 @@
+
+body{
+font-family: 'Open Sans Condensed', sans-serif;
+color:white;
+Background-color: lightpink;
+border: 0px;
+text-align: center;
+padding: 0.5em;
+image: center;
+}
+
+.segment{
+    margin-top: 3%;
+    margin-bottom: 3%;
+
+h10 {
+color:white;
+}
+
+h3 {
+Color:black;
+}
